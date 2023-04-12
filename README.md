@@ -5,7 +5,7 @@
 
 - 👨‍💻 Mis proyectos están disponibles en [https://crischuquiruna.github.io/Porfolio/](https://crischuquiruna.github.io/Porfolio/)
 
-- 💬 Ask me about **Python**
+- 💬 Preguntame sobre **Python or JavaScript**
 
 - 📫 How to reach me **cris.chuquiruna@gmail.com**
 
