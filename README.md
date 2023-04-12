@@ -1,13 +1,13 @@
 <h1 align="center">Hola 👋, soy Cristian Chuquiruna</h1>
 <h3 align="center">Data Scientist</h3>
 
-- 🌱 I’m currently learning **Ciencia de Datos**
+- 🌱 Me encuentro estudiando **Ciencia de Datos**
 
 - 👨‍💻 Mis proyectos están disponibles en [https://crischuquiruna.github.io/Porfolio/](https://crischuquiruna.github.io/Porfolio/)
 
 - 💬 Preguntame sobre **Python or JavaScript**
 
-- 📫 How to reach me **cris.chuquiruna@gmail.com**
+- 📫 Contactame **cris.chuquiruna@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
