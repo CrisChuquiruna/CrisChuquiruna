@@ -1,11 +1,11 @@
 <h1 align="center">Hola 👋, soy Cristian Chuquiruna</h1>
-<h3 align="center">Data Scientist</h3>
+<h3 align="center">Full Stack</h3>
 
-- 🌱 Me encuentro estudiando **Ciencia de Datos**
+- 🌱 Me encuentro estudiando **Tailwind**
 
 - 👨‍💻 Mis proyectos están disponibles en [https://crischuquiruna.github.io/Porfolio/](https://crischuquiruna.github.io/Porfolio/)
 
-- 💬 Preguntame sobre **Python or JavaScript**
+- 💬 Preguntame sobre **React y Python**
 
 - 📫 Puedes hablarme a **cris.chuquiruna@gmail.com**
 
