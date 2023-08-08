@@ -1,8 +1,6 @@
 <h1 align="center">Hola 👋, soy Cristian Chuquiruna</h1>
 <h3 align="center">Full-Stack Developer</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=crischuquiruna" alt="crischuquiruna" /></a> </p>
-
 - 🌱 Me encuentro estudiando, **Tailwind y Node**
 
 - Mi porfolio [https://crischuquiruna.github.io/Porfolio/](https://crischuquiruna.github.io/Porfolio/)
