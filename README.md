@@ -5,7 +5,6 @@ Apasionado por la calidad de software y la automatización, con sólida base té
 
 - 🌱 Me encuentro profundizando en **Playwright, Python y diseño de casos de prueba**.
 - 💼 Buscando oportunidades como **QA Tester / QA Automation Junior**.
-- 🌐 Mi portfolio: https://crischuquiruna.github.io/Porfolio/
 - 💬 Pregúntame acerca de **Testing con Playwright, Python, React y desarrollo web**.
 - 📫 Contáctame: [cris.chuquiruna@gmail.com](mailto:cris.chuquiruna@gmail.com)
 
